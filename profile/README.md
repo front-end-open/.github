@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Boys 👋
 
 <!--
 
@@ -10,3 +10,11 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+利用个人业余时间，组建的一个技术组织。主要用来收录自己个人的日常开发的贡献，也包括团队内现有的项目贡献。目前收录的项目涉及的方向涵盖
+
+1. 前端【设计内容w3c标准，前端框架；基础篇js,css,html】
+2. 算法【数据结构；经典算法套路，demo复现】
+3. WebGL 【目前现有的案列有基于threejs的3d应用】
+4. 服务端【Nodejs】
+
+本着相互学习，在技术道路上功能的进步的态度和宗旨，同时希望能够一起共事，共同促进前端技术生态的繁荣。在此，欢迎各位技术大牛的加入。【本着对技术的赤城，不为利益冲突】
