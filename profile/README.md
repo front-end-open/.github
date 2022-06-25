@@ -17,6 +17,6 @@
 3. WebGL 【目前现有的案列有基于threejs的3d应用】
 4. 服务端【Nodejs】
 
-本着相互学习，在技术道路上功能的进步的态度和宗旨，同时希望能够一起共事，共同促进前端技术生态的繁荣。在此，欢迎各位技术大牛的加入。【本着对技术的赤城，不为利益冲突】
+本着相互学习，在技术道路上共同进的态度和宗旨，希望号召到各路精英，共同促进前端技术生态的繁荣。在此，欢迎各位技术大牛的加入。【本着对技术的赤城，不为利益冲突】
 
 For the English version, please go to the root directory of the warehouse [translate](https://github.com/front-end-open/.github/blob/main/english.md)
