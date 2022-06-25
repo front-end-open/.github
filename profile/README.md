@@ -18,3 +18,5 @@
 4. 服务端【Nodejs】
 
 本着相互学习，在技术道路上功能的进步的态度和宗旨，同时希望能够一起共事，共同促进前端技术生态的繁荣。在此，欢迎各位技术大牛的加入。【本着对技术的赤城，不为利益冲突】
+
+For the English version, please go to the root directory of the warehouse [english](https://github.com/front-end-open/.github/blob/main/english.md)
