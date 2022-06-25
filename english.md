@@ -6,6 +6,5 @@
 - Algorithm [Data structure; classic algorithm routine, demo reproduction]
 - WebGL [Currently there are 3d applications based on threejs in the existing cases]
 - Server-side [Nodejs]
-- 
 
 Based on the attitude and purpose of learning from each other and advancing together on the technical road, we hope to call on elites from all walks of life to jointly promote the prosperity of the front-end technology ecosystem. Here, you are welcome to join the technical experts. 
