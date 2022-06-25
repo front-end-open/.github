@@ -22,4 +22,6 @@
 ## 申请加入
 Email me：1506262681@qq.com
 
+## 翻译
+
 For the English version, please go to the root directory of the warehouse [translate](https://github.com/front-end-open/.github/blob/main/english.md)
