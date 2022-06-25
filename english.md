@@ -8,3 +8,6 @@
 - Server-side [Nodejs]
 
 Based on the attitude and purpose of learning from each other and advancing together on the technical road, we hope to call on elites from all walks of life to jointly promote the prosperity of the front-end technology ecosystem. Here, you are welcome to join the technical experts. 
+
+## Applications for Membership
+Email me: ```pachverb@gmail.com``` or ```1506262681@qq.com```
