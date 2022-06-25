@@ -19,7 +19,7 @@
 
 本着相互学习，在技术道路上共同进的态度和宗旨，希望号召到各路精英，共同促进前端技术生态的繁荣。在此，欢迎各位技术大牛的加入。【本着对技术的赤城，不为利益冲突】
 
-# 申请加入
+## 申请加入
 Email me：1506262681@qq.com
 
 For the English version, please go to the root directory of the warehouse [translate](https://github.com/front-end-open/.github/blob/main/english.md)
